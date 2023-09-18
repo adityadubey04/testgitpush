@@ -11,6 +11,8 @@ d = {"name" : "aditya" , "surname" : "dubey" , "email" : "aditya@ineuron"}
 d = {"name" : "aditya" , "surname" : "dubey" , "email" : "aditya@ineuron"}
 d = {"name" : "aditya" , "surname" : "dubey" , "email" : "aditya@ineuron"}
 d = {"name" : "aditya" , "surname" : "dubey" , "email" : "aditya@ineuron"}
+d = {"name" : "aditya" , "surname" : "dubey" , "email" : "aditya@ineuron"}
+d = {"name" : "aditya" , "surname" : "dubey" , "email" : "aditya@ineuron"}
 
 db1 = client['Mongotest']
 coll = db1['test']
